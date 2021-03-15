@@ -1,5 +1,7 @@
 # Laravel Sanctum API
 
+> For demonstration purpose only
+
 ## Steps
 
 1. Install Laravel Sanctum
